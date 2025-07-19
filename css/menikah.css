@@ -542,7 +542,13 @@ body.preloader-site {
 padding-top: 100%;}
 
 
-
+.foto2 {
+  background-image: url(ourwd/image/b.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  min-height: 24rem;
+}
 
 .title-foto {
   font-size: 18pt;
