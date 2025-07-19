@@ -536,19 +536,66 @@ body.preloader-site {
   border-radius: 10px;
 }
 
-
-
-.image.is-2by1 {
-padding-top: 100%;}
-
+.foto1 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/a.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
 
 .foto2 {
-  background-image: url(ourwd/image/b.png);
-  background-size: cover;
-  background-position: center;
-  background-repeat:no-repeat;
-  min-height: 24rem;
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/b.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
 }
+
+.foto3 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/c.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+.foto4 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/d.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+.foto5 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/e.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+.foto6 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/f.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+.foto7 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/g.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+.foto8 {
+  background-image: linear-gradient(rgba(95, 2, 2, 0.25), rgba(48, 47, 47, 0.5)), url("../image/h.jpg");
+  background-size: 100%;
+  padding-top: 100%;
+  border-radius: 20px;
+}
+
+
+
+
+
 
 .title-foto {
   font-size: 18pt;
